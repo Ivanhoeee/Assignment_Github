@@ -2,4 +2,9 @@ Ivan Novakovic
 zipcode: 1092VH
 GT username: Ivanhizzle
 phone number: 123456
+<<<<<<< HEAD
 date of birth: 15-10-1985
+||||||| 885313b
+=======
+favorite animal: Manbearpig
+>>>>>>> c4b4da35c53088f28236eac484f3549540b8ecfa

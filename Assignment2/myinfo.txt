@@ -1,7 +1,4 @@
 Ivan Novakovic
 zipcode: 1092VH
-<<<<<<< HEAD
-phone number: 123456
-=======
 GT username: Ivanhizzle
->>>>>>> 41d614772aae856e548cf70707bd842d6bf706f8
+phone number: 123456

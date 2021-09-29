@@ -2,3 +2,4 @@ Ivan Novakovic
 zipcode: 1092VH
 GT username: Ivanhizzle
 phone number: 123456
+favorite animal: Manbearpig
